@@ -3,3 +3,6 @@
 [![Hours listened on Musy](https://musy.olaurent.com/badges/hours.svg?style=compact)](https://musy.olaurent.com/profile/0d9bfa6e-dd69-4b0a-90c1-175947ab8bf5?year=all&unit=hours)
 [![Top genres on Musy](https://musy.olaurent.com/badges/genres.svg?style=compact)](https://musy.olaurent.com/profile/0d9bfa6e-dd69-4b0a-90c1-175947ab8bf5/genres)
 [![On repeat on Musy](https://musy.olaurent.com/badges/repeat.svg?style=compact)](https://musy.olaurent.com/profile/0d9bfa6e-dd69-4b0a-90c1-175947ab8bf5/repeating?range=short_term&type=tracks)
+
+[![Total lifted in SET](https://fitness.olaurent.com/api/badges/total.svg)](https://fitness.olaurent.com/share/lifting#total)
+[![Lifted this month in SET](https://fitness.olaurent.com/api/badges/month.svg)](https://fitness.olaurent.com/share/lifting#month)
